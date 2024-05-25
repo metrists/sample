@@ -1,5 +1,3 @@
-
 [build]
-base = ".metrists"
 publish = ".metrists/dist"
-command = "npm run build"
+command = "npx @metrists/cli publish"
