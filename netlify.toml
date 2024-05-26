@@ -1,5 +1,5 @@
 [build]
-  publish = ".metrists/build"
+  publish = ".metrists/public"
   command = "npx @metrists/cli publish"
   functions = "netlify/functions"
 
